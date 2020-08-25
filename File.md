@@ -2,19 +2,19 @@
 C Program to Display the Boolean Truth Table for AND,OR,NOT.
 
 
- #### Logic gates
+ ### Logic gates
 Digital systems are said to be constructed by using logic gates. These gates are the AND, OR, NOT, NAND, NOR, EXOR and EXNOR gates. The basic operations are described below with the aid of truth tables.
 
-#### AND gate
+### AND gate
 
  		
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high.  A dot (.) is used to show the AND operation i.e. A.B.  Bear in mind that this dot is sometimes omitted i.e. AB
  
-#### OR gate
+### OR gate
  		
 The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high.  A plus (+) is used to show the OR operation.
  
-#### NOT gate
+### NOT gate
 
 		
 The NOT gate is an electronic circuit that produces an inverted version of the input at its output.  It is also known as an inverter.  If the input variable is A, the inverted output is known as NOT A.  This is also shown as A', or A with a bar over the top, as shown at the outputs. The diagrams below show two ways that the NAND logic gate can be configured to produce a NOT gate. It can also be done using NOR logic gates in the same way.
